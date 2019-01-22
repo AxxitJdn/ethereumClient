@@ -1,5 +1,5 @@
 # ethereumClient
-A test client for the ethereum blockchain
+A test client for the ethereum blockchain at Infrabel
 
 
 
